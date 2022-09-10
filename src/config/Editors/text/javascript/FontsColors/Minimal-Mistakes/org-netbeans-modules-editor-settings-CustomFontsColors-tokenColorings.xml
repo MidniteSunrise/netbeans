@@ -9,7 +9,7 @@
     <fontcolor default="number" name="constant"/>
     <fontcolor default="string" name="string"/>
     <fontcolor name="mod-global"/>
-    <fontcolor foreColor="ff8be9fd" name="mod-class"/>
+    <fontcolor foreColor="ff59fff9" name="mod-class"/>
     <fontcolor foreColor="ffffc66d" name="mod-method"/>
     <fontcolor default="comment" name="comment-line"/>
     <fontcolor name="mod-unused" waveUnderlined="ff999999"/>

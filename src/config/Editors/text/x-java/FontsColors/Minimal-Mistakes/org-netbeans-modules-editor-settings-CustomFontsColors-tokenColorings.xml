@@ -22,7 +22,7 @@
     <fontcolor default="identifier" foreColor="lightGray" name="mod-parameter"/>
     <fontcolor name="mod-deprecated" strikeThrough="ffc3c3c3"/>
     <fontcolor default="comment" name="javadoc-first-sentence"/>
-    <fontcolor default="identifier" foreColor="ff50fa7b" name="mod-annotation-type"/>
+    <fontcolor default="identifier" foreColor="ff59ff59" name="mod-annotation-type"/>
     <fontcolor default="string" foreColor="ffcc7832" name="string-escape"/>
     <fontcolor default="string" name="string-escape-invalid" waveUnderlined="red"/>
     <fontcolor default="keyword" name="keyword"/>
@@ -33,9 +33,9 @@
     <fontcolor default="comment" name="javadoc-tag">
         <font style="bold"/>
     </fontcolor>
-    <fontcolor default="method" foreColor="ff50fa7b" name="mod-method"/>
+    <fontcolor default="method" foreColor="ff59ff59" name="mod-method"/>
     <fontcolor default="identifier" name="mod-interface"/>
-    <fontcolor default="identifier" foreColor="ff50fa7b" name="mod-annotation-type-declaration">
+    <fontcolor default="identifier" foreColor="ff59ff59" name="mod-annotation-type-declaration">
         <font style="bold"/>
     </fontcolor>
     <fontcolor name="mod-protected"/>

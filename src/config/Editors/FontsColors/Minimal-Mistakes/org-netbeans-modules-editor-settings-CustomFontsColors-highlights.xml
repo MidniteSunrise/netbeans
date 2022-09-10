@@ -2,7 +2,7 @@
 <!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
 <fontscolors>
     <fontcolor bgColor="ff3b514d" foreColor="ffffef28" name="nbeditor-bracesMatching-match"/>
-    <fontcolor foreColor="ff555555" name="text-limit-line-color"/>
+    <fontcolor foreColor="ff595955" name="text-limit-line-color"/>
     <fontcolor bgColor="ff3a3a3a" foreColor="ff8c8c8c" name="code-folding"/>
     <fontcolor foreColor="ffcc0099" name="synchronized-text-blocks-ext"/>
     <fontcolor bgColor="ffd1243b" name="nbeditor-bracesMatching-mismatch"/>
@@ -24,7 +24,7 @@
     <fontcolor foreColor="darkGray" name="indent-guide-lines"/>
     <fontcolor name="indent-whitespace"/>
     <fontcolor bgColor="ffe0e8f1" foreColor="black" name="block-search"/>
-    <fontcolor bgColor="ff44475a" name="selection"/>
+    <fontcolor bgColor="ff434c5e" name="selection"/>
     <fontcolor bgColor="ffffb442" foreColor="black" name="inc-search"/>
     <fontcolor bgColor="ff3b514d" name="nbeditor-bracesMatching-match-multichar"/>
     <fontcolor foreColor="ffbbbbbb" name="caret-color-insert-mode"/>

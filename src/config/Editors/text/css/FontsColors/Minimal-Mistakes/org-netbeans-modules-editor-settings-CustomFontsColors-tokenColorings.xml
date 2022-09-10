@@ -13,7 +13,7 @@
         <font style="bold"/>
     </fontcolor>
     <fontcolor default="string" name="uris"/>
-    <fontcolor foreColor="ffff79c6" name="at_rule_symbol"/>
+    <fontcolor foreColor="ffff59f9" name="at_rule_symbol"/>
     <fontcolor foreColor="ffcc7832" name="mod-custom3">
         <font style="italic"/>
     </fontcolor>
@@ -29,6 +29,6 @@
         <font style="bold"/>
     </fontcolor>
     <fontcolor default="separator" name="separators"/>
-    <fontcolor default="default" foreColor="fff8f8f2" name="others"/>
+    <fontcolor default="default" foreColor="ffe5e9f0" name="others"/>
     <fontcolor default="default" name="whitespaces"/>
 </fontscolors>
